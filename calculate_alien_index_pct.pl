@@ -6,15 +6,6 @@ use List::MoreUtils qw(uniq);
 my $start_time=time;
 ###############################################
 # Run: perl calculate_alien_index.pl -c config_file
-#
-# calculate_alien_index.pl 
-#
-#
-# Jen Wisecaver
-# 20141124 
-#
-# 
-# Modified by Xingxing Shen
 # 20170202, shenxingxing2010@gmail.com
 ################################################
 my %opts; getopt('bctugkv', \%opts );
