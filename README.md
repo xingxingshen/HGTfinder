@@ -4,7 +4,7 @@ Workflow of HGT identification
 Step 1:
 AI calculation 
 
-perl calculate_alien_index_pct.pl -c $(out).config
+perl calculate_alien_index_pct.pl -c test.config
 
 Step 2:
 Building tree:
