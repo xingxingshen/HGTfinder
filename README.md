@@ -1,4 +1,7 @@
 # HGTfinder
+#The codes were originated from Dr. Jennifer Wisecaver
+# Modified date and author: 20181022 & Xing-Xing Shen
+
 Workflow of HGT identification
 
 Step 1:
